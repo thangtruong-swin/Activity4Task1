@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Activity4Task1</string>
+    <string name="plus" translatable="false">Plus</string>
+    <string name="multiple" translatable="false">Multiple</string>
+    <string name="equals">equals</string>
+    <string name="answer" translatable="false"></string>
+</resources>
